@@ -1,0 +1,8 @@
+This is some sample text
+To show if cat
+is
+working
+
+or not.
+Empty line for the fans:
+
